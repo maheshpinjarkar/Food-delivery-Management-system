@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <h2>Enatega Single Vendor Food Delivery Solution</h2>
+  <h2>Food Delivery Solution</h2>
   <i>The white label food delivery solution built for restaurants of all sizes!</i>
  <br/>
 <br />
